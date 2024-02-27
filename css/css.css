@@ -7,13 +7,13 @@ body{
 
 }
 
-titulo{
+.titulo{
     padding: 10px;
     font-size: 32px;
     background-color: #E1EDF2;
 }
 
-subtitulo{
+.subtitulo{
 
     border-bottom: 2px solid black;
 }
@@ -45,11 +45,21 @@ figure img{
     width: 100%;
 }
 
-contato_subtitulo{
+.contato_subtitulo{
     display: inline;
 }
 
-contato_info{
+.contato_info{
     margin: 16px 0 24px;
     padding-left: 32px;
 }
+
+.contato_info-titulo,
+.contato_info-descricao{
+    display: inline;
+}
+
+.contato_info-descricao{
+    margin-left: 10px;
+}
+

@@ -9,6 +9,7 @@ body{
 
 titulo{
     padding: 10px;
+    font-size: 32px;
     background-color: #E1EDF2;
 }
 
@@ -42,4 +43,13 @@ float: right;
 
 figure img{
     width: 100%;
+}
+
+contato_subtitulo{
+    display: inline;
+}
+
+contato_info{
+    margin: 16px 0 24px;
+    padding-left: 32px;
 }

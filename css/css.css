@@ -92,3 +92,18 @@ figure img{
     margin-left: 1em;
 }
 
+
+@media ( max-width: 850px) {
+    .contato_secao{
+        display: block;
+        margin-left: 1em;
+    }
+}
+
+@media ( max-width: 622px) {
+    .familia-tupfeln{
+        float: none;
+        margin: 0 auto;
+    }
+}
+

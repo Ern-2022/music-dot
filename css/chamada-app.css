@@ -49,13 +49,13 @@
 }
 
 .app_download-android {
-    background-image: url();
+    background-image: url(../img/icone-android-logo.svg);
     background-position: left .5rem center;
     padding-left: 1.4rem;
 }
 
 .app_download-ios {
-    background-image: url();
+    background-image: url(../img/icone-apple-logo.svg);
     background-position: left 1rem top .4rem;
 }
 
@@ -68,7 +68,7 @@
 
 @media ( min-width: 768px) {
     .chamada_aplicativo {
-        background-image: url();
+        background-image: url(../img/mockup-app.png);
         background-size: 12rem;
         background-position: left 20% center;
         background-repeat: no-repeat;
